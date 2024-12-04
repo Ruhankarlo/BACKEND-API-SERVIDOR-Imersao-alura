@@ -6,4 +6,4 @@ NodeJS
 VSCODE
 Expresss
 
-Ignore o node_modules, é apenas um repositório do express
+Ignore o node_modules, é apenas um repositório do express!
